@@ -72,9 +72,16 @@ Detail-oriented **Computer Science and Business Systems graduate with 6 months o
 ![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=plastic&logo=anaconda&logoColor=white)
 
 # 📊 GitHub Stats:
-   ![](https://github-readme-stats.shion.dev/api?username=CodecraftsFamilySMBCL&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true)<br/>
-   ![](https://streak-stats.demolab.com/?user=CodecraftsFamilySMBCL&theme=blue_navy&hide_border=false)<br/>
-   ![](https://github-readme-stats.shion.dev/api/top-langs/?username=CodecraftsFamilySMBCL&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.shion.dev/api?username=AayshaSithicka&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=AayshaSithicka&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=AayshaSithicka&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+[![](https://komarev.com/ghpvc/?username=AayshaSithicka&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 <!--## 🏆 GitHub Trophies
 //![](https://github-profile-trophy.vercel.app/?username=CodecraftsFamilySMBCL&theme=radical&no-frame=false&no-bg=true&margin-w=4)//
